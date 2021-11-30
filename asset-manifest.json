@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/react-gc-provincial-rates/static/css/main.e9e0d768.chunk.css",
-    "main.js": "/react-gc-provincial-rates/static/js/main.c420c989.chunk.js",
-    "main.js.map": "/react-gc-provincial-rates/static/js/main.c420c989.chunk.js.map",
+    "main.js": "/react-gc-provincial-rates/static/js/main.3729e0d4.chunk.js",
+    "main.js.map": "/react-gc-provincial-rates/static/js/main.3729e0d4.chunk.js.map",
     "runtime-main.js": "/react-gc-provincial-rates/static/js/runtime-main.2d57d7fc.js",
     "runtime-main.js.map": "/react-gc-provincial-rates/static/js/runtime-main.2d57d7fc.js.map",
-    "static/js/2.2b657288.chunk.js": "/react-gc-provincial-rates/static/js/2.2b657288.chunk.js",
-    "static/js/2.2b657288.chunk.js.map": "/react-gc-provincial-rates/static/js/2.2b657288.chunk.js.map",
+    "static/js/2.98e1a80f.chunk.js": "/react-gc-provincial-rates/static/js/2.98e1a80f.chunk.js",
+    "static/js/2.98e1a80f.chunk.js.map": "/react-gc-provincial-rates/static/js/2.98e1a80f.chunk.js.map",
     "index.html": "/react-gc-provincial-rates/index.html",
     "static/css/main.e9e0d768.chunk.css.map": "/react-gc-provincial-rates/static/css/main.e9e0d768.chunk.css.map",
-    "static/js/2.2b657288.chunk.js.LICENSE.txt": "/react-gc-provincial-rates/static/js/2.2b657288.chunk.js.LICENSE.txt"
+    "static/js/2.98e1a80f.chunk.js.LICENSE.txt": "/react-gc-provincial-rates/static/js/2.98e1a80f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2d57d7fc.js",
-    "static/js/2.2b657288.chunk.js",
+    "static/js/2.98e1a80f.chunk.js",
     "static/css/main.e9e0d768.chunk.css",
-    "static/js/main.c420c989.chunk.js"
+    "static/js/main.3729e0d4.chunk.js"
   ]
 }
